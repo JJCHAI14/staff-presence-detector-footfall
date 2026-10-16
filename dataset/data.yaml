@@ -1,0 +1,6 @@
+names:
+  0: name_tag
+path: dataset
+train: images/train
+val: images/val
+test: images/test

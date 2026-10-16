@@ -1,0 +1,4 @@
+names:
+  0: name_tag
+path: .
+train: train.txt
